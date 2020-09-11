@@ -13,4 +13,4 @@ An in-depth paragraph about your project and overview of use
 * Any modifications needed to to be made 
 code blocks for commands
 # Liciense #
-The ** project ** bold is liciensed under the Austin licens see the LICENSE.md file for details
+The **[project]** is liciensed under the [Name Here] license - see the LICENSE.md file for
